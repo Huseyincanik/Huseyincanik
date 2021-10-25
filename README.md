@@ -1,4 +1,4 @@
-### Hi there, ı m Huseyincanik
+### Hi there, I am Huseyincanik
 
 
 **Huseyincanik/Huseyincanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
