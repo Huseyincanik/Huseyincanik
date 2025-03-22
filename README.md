@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/56/06/7e/56067e967644e45ff639f9c49ecb0102.jpg](https://i.pinimg.com/736x/2d/a9/c4/2da9c4f0d49127e870ba28f8db2c848c.jpg)
+[![MasterHead](https://i.pinimg.com/474x/ad/47/32/ad4732737d7474c28b79b6e686a66f3c.jpg)
 
 <h1 align="center">Hi 👋, I'm Huseyincanik</h1>
 <h3 align="center">Artificial intelligence engineer</h3>
