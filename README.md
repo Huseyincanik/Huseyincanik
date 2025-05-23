@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Naturel language processing tools**
 
-- 💬 Ask me about **NLTK, Spacy and many tools**
+- 💬 Ask me about **NLTK, Spacy, Agents, Transformers and many tools**
 
 - 📫 How to reach me **hcanik8@gmail.com**
 
