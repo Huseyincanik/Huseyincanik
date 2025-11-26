@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PreTrained Models**
 
-- 🌱 I’m currently learning **Naturel language processing tools**
+- 🌱 I’m currently learning **Everything from AI Applications**
 
 - 💬 Ask me about **Agents, LLM , NLP , ML , Data**
 
